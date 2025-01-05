@@ -33,6 +33,10 @@ array = np.array([1, 2, 3, 4, 5])
 print(array)
 ```
 
+## Projects
+
+Explore the innovative projects using NUMPY in the [PROJECTS](projects/)
+
 ## Contributing
 
 We welcome contributions to this repository. If you have any improvements, suggestions, or new projects to add, please follow these steps:
