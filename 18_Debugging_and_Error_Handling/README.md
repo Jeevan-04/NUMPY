@@ -1,4 +1,3 @@
-// filepath: /Users/apple/Desktop/NUMPY/18_Debugging_and_Error_Handling/README.md
 # NumPy Debugging and Error Handling
 
 ## Table of Contents
