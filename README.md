@@ -1,4 +1,4 @@
-# NUMPY Tutorial and Projects
+# NUMPY Tutorial and [Projects](projects/)
 
 Welcome to the NUMPY tutorial and projects repository. This repository contains practice exercises, learning materials, and innovative projects using the NUMPY library.
 
