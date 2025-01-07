@@ -7,6 +7,7 @@
 4. [Example](#example)
    - [Encoding](#encoding)
    - [Decoding](#decoding)
+5. [Results](#results)
 
 ## Overview
 This project demonstrates how to encode and decode a secret message into an image using the least significant bit (LSB) technique.
@@ -25,3 +26,8 @@ This project demonstrates how to encode and decode a secret message into an imag
 3. **Extract LSBs**: The LSBs of the flattened array are extracted to form the binary string of the message.
 4. **Find Stopping Sequence**: The stopping sequence is located in the binary message to determine the end of the encoded message.
 5. **Extract and Decode Message**: The binary message bits before the stopping sequence are extracted and converted back to text.
+
+## Results
+| Original Image | Encoded Image | Encoded Message | Decoded Message |
+|----------------|---------------|-----------------|-----------------|
+| ![Original Image](image.png) | ![Encoded Image](encoded_image.png) | Find a way not an excuse | Find a way not an excuse |
