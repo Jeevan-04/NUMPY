@@ -1,6 +1,6 @@
 # NUMPY Tutorial and [Projects](projects/)
 
-Welcome to the NUMPY tutorial and projects repository. This repository contains practice exercises, learning materials, and innovative projects using the NUMPY library.
+Welcome to the NUMPY tutorial and [projects](projects/) repository. This repository contains practice exercises, learning materials, and innovative projects using the NUMPY library.
 
 ## Table of Contents
 - [Description](#description)
